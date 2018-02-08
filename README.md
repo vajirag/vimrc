@@ -4,6 +4,8 @@
 
 :scriptnames
 
+<d><w> - delete a word
+<y><w> - yank a word
 
 ### Plugins
 
