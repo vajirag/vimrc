@@ -4,9 +4,13 @@
 
 :scriptnames
 
-- <d><w> - delete a word
+dw - delete a word
 
-- <y><w> - yank a word
+yw - yank a word
+
+dW - delete till next white space
+
+db - delete back
 
 ### Plugins
 
