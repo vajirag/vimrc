@@ -26,5 +26,5 @@ vim statusline
 https://shapeshed.com/vim-statuslines/
 
 
-### videos
+### Videos
 https://www.youtube.com/watch?v=lwD8G1P52Sk&t=641s
